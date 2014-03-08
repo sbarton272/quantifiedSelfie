@@ -11,7 +11,7 @@ HashMap<String,Integer[]> RoleCount = new HashMap<String,Integer[]>();
 int winX = 800;
 int winY = 800;
 int margin = 20;
-int topBorder = 50;
+int topBorder = 0;
 int textPadding = 3;
 int fontSize = 14;
 int maxBucketLen;
