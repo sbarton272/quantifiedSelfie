@@ -341,9 +341,9 @@ void draw() {
 	fill(200);
 
 	// title
-	textSize(fontSize*2);
-	text(title, width/2 - title.length()*fontSize/2, topBorder - margin);
-	textSize(fontSize);
+	// textSize(fontSize*2);
+	// text(title, width/2 - title.length()*fontSize/2, topBorder - margin);
+	// textSize(fontSize);
 	
 	// ticks
 	int zeroY = winY - margin;
