@@ -1,0 +1,9 @@
+*.txt
+*.jpg
+*.png
+*.tif
+*.xlsx
+*.pyc
+\weeklyPlanners
+build-tmp
+lifeBuckets.py
