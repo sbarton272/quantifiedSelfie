@@ -8,7 +8,7 @@ String[] labelOrd = {"Fall Senior HS", "Spring Senior HS", "Fall Freshman", "Spr
 HashMap<String,Integer[]> RoleCount = new HashMap<String,Integer[]>();
 
 // sizing
-int winX = 800;
+int winX = 600;
 int winY = 800;
 int margin = 20;
 int topBorder = 0;
