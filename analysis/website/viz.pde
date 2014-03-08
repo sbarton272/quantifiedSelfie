@@ -342,7 +342,7 @@ void draw() {
 
 	// title
 	textSize(fontSize*2);
-	text(title, width/2 - title.length()*fontSize/2, topBorder - margin);
+	text(title, width/3 - title.length()*fontSize/2, topBorder - margin);
 	textSize(fontSize);
 	
 	// ticks
